@@ -3,3 +3,10 @@ Machine readable data of tables in the pager: 日本測地系における離島�
 
 Google Sheets: https://docs.google.com/spreadsheets/d/1M-I0z6XyUuF-NWrWlA3rlh7rTHo52_V1fp3YYKV_or8/edit?usp=sharing
 (data is under preparing...)
+
+## To Do
+
+- [ ] Input all data from the paper
+- [ ] Write a script to] save CSV file using the Google Sheet public API
+- [ ] Write a script to convert the CSV file to JSON file (maybe I can use the same API
+- [ ] Host the JSON file via GitHub Pages
